@@ -20,6 +20,8 @@
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VxHxS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 <!--
 
 **VxHxS/VxHxS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,7 +22,7 @@
 
 <img alt="figma link" src="https://img.shields.io/badge/:badgeContent">
 
-[Ссылка на мой дизайн в Figma](https://www.figma.com/file/NAoS9j2BJ8OIODWQlL24J3?node-id=0:1&locale=en&type=design)
+[Ссылка на мой дизайн в Figma](https://www.figma.com/file/NAoS9j2BJ8OIODWQlL24J3?node-id=0:1&locale=en&type=design){: .btn}
 
 <!--
 

@@ -20,7 +20,9 @@
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VxHxS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="figma link" src="https://img.shields.io/badge/:badgeContent">
+
+[Ссылка на мой дизайн в Figma](https://www.figma.com/file/NAoS9j2BJ8OIODWQlL24J3?node-id=0:1&locale=en&type=design)
 
 <!--
 

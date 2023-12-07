@@ -20,9 +20,6 @@
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VxHxS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<button onclick="window.location.href = 'https://www.figma.com/file/NAoS9j2BJ8OIODWQlL24J3?node-id=0:1&locale=en&type=design';">
-Also i have desin portfolio if figma!
-</button>
 <!--
 
 **VxHxS/VxHxS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

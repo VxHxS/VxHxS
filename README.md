@@ -22,7 +22,6 @@
 
 [Ссылка на мой дизайн в Figma](https://www.figma.com/file/NAoS9j2BJ8OIODWQlL24J3?node-id=0:1&locale=en&type=design)
 
-<p></p>
 [Ссылка на Codewars](https://www.codewars.com/users/VxHxS)
 
 <!--
